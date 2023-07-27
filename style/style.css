@@ -1,0 +1,10 @@
+.bc-main{
+    background-color: #F85559;
+    border: none;
+}
+.bc-main:hover{
+    background-color: #F85559;
+}
+*{
+    font-family: 'Lato', sans-serif;
+}
